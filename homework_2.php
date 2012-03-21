@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Homework_2_44593</title>
+<title>Homework_2_44592</title>
 <?php
 	$integers_array = range(20, 1000, 37);
 	
